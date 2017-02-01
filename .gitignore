@@ -1,0 +1,12 @@
+.idea
+__pycache__
+.cache
+*.log
+log.txt
+*~
+*.pyc
+*.pdf
+*.zip
+/build/
+/dist/
+.hypothesis
